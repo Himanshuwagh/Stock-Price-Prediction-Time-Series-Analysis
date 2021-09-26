@@ -12,7 +12,7 @@ All of these factors combine to make share prices unpredictable and difficult to
 - The major goal of this essay is to show how these calculations are done. I'll give a fast summary of the process and make crucial connections so you may come back to it later if you need to. If you're new to time management, I recommend starting with the articles listed below.     
 
 ### Loading the Data
-The Google data is up to 22-05-2020. Let’s take the close column for the stock prediction. We can use the same strategy.
+The Google data is up to 22-04-2021. Let’s take the close column for the stock prediction. We can use the same strategy.
 dataset
 We should reset the index so that the data will be clear.
 
